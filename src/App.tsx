@@ -14,11 +14,23 @@ function App() {
     <Box w='100%' h='3000px' bgGradient='linear(to-l, #000000, #000000)'>
     <Text className='Heading header-grad'
   bgClip='text'
-  fontSize='4xl'
+  fontSize='6xl'
   fontWeight='extrabold' position='absolute' left='05.5%' top='0.5%' size='md'
-  ><h1>Shivam Agarwal's Portfolio</h1>(Under Progress)<br></br><br></br><br></br><br></br> </Text>
+  ><h1>Shivam Agarwal's </h1></Text>
 <div>
-  
+<Text className='Heading header-grad'
+  bgClip='text'
+  fontSize='2xl'
+  fontWeight='extrabold' position='absolute' left='33.8%' top='1.9%' size='md'>
+  <h2>Portfolio</h2>
+  </Text>
+
+<Text className='Heading header-grad'
+  bgClip='text'
+  fontSize='2xl'
+  fontWeight='extrabold' position='absolute' left='05.7%' top='3.5%' size='md'>
+  <h2>(Under Progress)</h2>
+  </Text>
   <Text className='Heading header-grad'
   bgClip='text'
   fontSize='4xl'
@@ -31,25 +43,25 @@ function App() {
 </div>
 <div>
 <Box className='Best-projects gradient-1 ' w='620px' h='150px' position='absolute' top='38.1%'>
-<Text color='Black' fontSize='2xl'  position='relative' left='08%' top='12%' >I made this website in July 2022 <br></br> to learn Fetch API</Text>
+<Text color='Black' fontSize='3xl'  position='relative' left='08%' top='12%' >I made this website in July 2022 <br></br> to learn Fetch API</Text>
 
 </Box>
 <Box className='Best-projects gradient-3' w='620px' h='230px'  position='absolute'top='30.1%' left='5%'>
   
-<Text className=''color='black' fontSize='2xl' fontWeight='extrabold' position='absolute' left='2.5%' top='10%' >
-  A fullstack weather forecasting webapp - Basic JS
+<Text className=''color='black' fontSize='5xl' fontWeight='extrabold' position='absolute' left='2.5%' top='1%' >
+  A weather forecasting webapplication - Basic JS
 </Text>
-<Button className='hovers' position='relative' left='82%' top='66%'><a href='https://weather-web-omega.vercel.app/'>Click Here</a></Button>
+<Button className='hovers' position='relative' left='82%' top='78%'><a href='https://weather-web-omega.vercel.app/'>Click Here</a></Button>
 </Box>
 </div>
 <div className='part-1-2'>
 <Box className='Best-projects gradient-3' w='520px' h='140px'  position='absolute' left='62%'>
-<Text  fontSize='2xl' color='black' position='relative' left='06%' top='05%' > Zomato Frontend Clone </Text>
+<Text  fontSize='5xl' color='black' position='relative' left='06%' top='05%' > Zomato Frontend Clone </Text>
 </Box>
 <Box className='Best-projects gradient-1' w='520px' h='240px'  position='absolute'top='20.3%' left='62%'>
-<Button className='hovers' position='absolute' left='78%' top='10%'><a href='https://zomatoclone-blush.vercel.app/'>Click Here</a></Button>
+<Button className='hovers' position='absolute' left='78%' top='-30%'><a href='https://zomatoclone-blush.vercel.app/'>Click Here</a></Button>
 <Box className='description' w='360px' h='100px' >
-<Text  fontSize='2xl'  fontWeight='extrabold' position='absolute' left='6%' top='-230%' >
+<Text  fontSize='3xl'  fontWeight='extrabold' position='absolute' left='6%' top='-244%' >
 I made the website in march 2022 <br></br> for the clone IT repo in the girlscript <br></br>summer of code
 </Text>
 </Box>
@@ -73,8 +85,8 @@ I made the website in march 2022 <br></br> for the clone IT repo in the girlscri
 <Box className='description' w='360px' h='100px' >
 </Box>
 <Box className='Best-projects gradient-1' w='790px' h='130px'  position='absolute'top='0.3%' left='106%'>
-<Button className='hovers' position='relative' left='84%' top='52%'><a href='https://youtube-video-downloaderdddddd.vercel.app/'>Click Here</a></Button>
-<Text fontSize='2xl' fontWeight='extrabold' position='absolute' left='6%' top='15%' >
+<Button className='hovers' position='relative' left='86%' top='64%'><a href='https://youtube-video-downloaderdddddd.vercel.app/'>Click Here</a></Button>
+<Text fontSize='4xl' fontWeight='extrabold' position='absolute' left='6%' top='15%' >
   A fullstack Youtube Video Downloader - NexT JS
 </Text>
 </Box>
@@ -90,7 +102,7 @@ I made the website in march 2022 <br></br> for the clone IT repo in the girlscri
 </Box>
 <Box className='Best-projects gradient-1' w='580px' h='130px'  position='absolute'top='41.8%' left='-76.7%'>
 <Button className='hovers' position='relative' top='60%' left='80%'><a href='https://flyravel.vercel.app/'>Click Here</a></Button>
-<Text fontSize='2xl' fontWeight='extrabold' position='absolute' left='6%' top='10%' >
+<Text fontSize='4xl' fontWeight='extrabold' position='absolute' left='6%' top='10%' >
   A frontend Travel Page "UnderProgress" - Basic JS
 </Text>
 </Box>
