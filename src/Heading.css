@@ -1,0 +1,102 @@
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Spice&family=Oswald:wght@600&display=swap');
+*{
+    font-family: 'Oswald';
+}
+
+.Heading{
+    cursor: pointer;
+    transition: all 1s;
+}
+.Heading-2{
+    position: relative;
+    top: 10%;
+    cursor: pointer;
+    transition: all 1s;
+}
+.part-2{
+    position: absolute;
+    top: 65%;
+    left: 5%;
+}
+.part-2-2{
+    position: absolute;
+    top: 70%;
+    left: 45%;
+}
+.Best-projects{
+    position: absolute;
+    top: 15%;
+    left: 5%;
+    border-radius: 15px;
+    transition: all 1s;
+}
+
+
+.Best-projects-2{
+    position: absolute;
+    top: 20%;
+    left: 38%;
+    border-radius: 15px;
+    transition: all 1s;
+}
+
+.description{
+   
+    font-weight: 800;
+    border-radius: 15px;
+    position: absolute;
+    top: 105%;
+    left: 3%;
+    transition: all 1.2s;
+}
+
+.description-3{
+    border-radius: 25px;
+    position: absolute;
+    top: 115%;
+    color: aliceblue;
+    left: 82%;
+   
+}.description-4{
+    border-radius: 25px;
+    position: absolute;
+    top: 115%;
+    left: 87%;
+    color: aliceblue;
+}.description-5{
+    border-radius: 25px;
+    position: absolute;
+    top: 115%;
+    left: 92%;
+    color: aliceblue;
+}
+
+.image-1{
+    position: relative;
+    top:5%;
+    left: 03%;
+    border-radius: 15px;
+    width: 95%;
+    
+}
+
+.image-2{
+    position: relative;
+    top:5%;
+    left: 03%;
+    border-radius: 15px;
+    width: 95%;
+    height: 90%;
+}
+
+li{
+    list-style: none;
+}
+
+
+.Heading:hover{
+    transform: scale(1.05);
+}
+.Heading-2:hover{
+    transform: scale(1.05);
+}
