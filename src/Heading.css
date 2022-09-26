@@ -6,6 +6,7 @@
 .Heading{
     cursor: pointer;
     transition: all 1s;
+    margin-bottom: 20vh;
 }
 .Heading-2{
     position: relative;
@@ -15,12 +16,12 @@
 }
 .part-2{
     position: absolute;
-    top: 65%;
+    top: 44.5%;
     left: 5%;
 }
 .part-2-2{
     position: absolute;
-    top: 70%;
+    top: 50%;
     left: 45%;
 }
 .Best-projects{
@@ -34,8 +35,8 @@
 
 .Best-projects-2{
     position: absolute;
-    top: 20%;
-    left: 38%;
+    top:30%;
+    left:47%;
     border-radius: 15px;
     transition: all 1s;
 }
@@ -53,20 +54,20 @@
 .description-3{
     border-radius: 25px;
     position: absolute;
-    top: 115%;
+    top: 105%;
     color: aliceblue;
     left: 82%;
    
 }.description-4{
     border-radius: 25px;
     position: absolute;
-    top: 115%;
+    top: 105%;
     left: 87%;
     color: aliceblue;
 }.description-5{
     border-radius: 25px;
     position: absolute;
-    top: 115%;
+    top: 105%;
     left: 92%;
     color: aliceblue;
 }
@@ -76,7 +77,7 @@
     top:5%;
     left: 03%;
     border-radius: 15px;
-    width: 95%;
+    width: 93%;
     
 }
 
